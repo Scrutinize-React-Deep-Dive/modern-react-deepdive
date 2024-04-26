@@ -50,3 +50,11 @@
 
 ## 참여
 
+| | Member |
+|:------:|:-------|
+| <img src="https://avatars.githubusercontent.com/u/48350491?s=96&v=4" width="60" height="60"> | [B](https://github.com/orgs/Scrutinize-React-Deep-Dive/people/functionBee) |
+| <img src="https://avatars.githubusercontent.com/u/78193416?s=96&v=4" width="60" height="60"> | [youseock](https://github.com/orgs/Scrutinize-React-Deep-Dive/people/mahwin) |
+| <img src="https://avatars.githubusercontent.com/u/71490862?s=96&v=4" width="60" height="60"> | [고나연](https://github.com/orgs/Scrutinize-React-Deep-Dive/people/NYeonK) |
+| <img src="https://avatars.githubusercontent.com/u/112852049?s=96&v=4" width="60" height="60"> | [seung-heee](https://github.com/orgs/Scrutinize-React-Deep-Dive/people/seung-heee) |
+| <img src="https://avatars.githubusercontent.com/u/78516146?s=96&v=4" width="60" height="60"> | [SEUNGHOON CHOI](https://github.com/orgs/Scrutinize-React-Deep-Dive/people/valueinvestment) |
+
