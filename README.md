@@ -3,16 +3,16 @@
 </div>
 
 <div align="center">
-  <img width="560" height="auto" src="https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/assets/48350491/15433351-cb72-44f6-986a-a1638be43f07" alt="Modern React Deepdive"/>  
+  <img width="560" height="auto" src="https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/assets/48350491/15433351-cb72-44f6-986a-a1638be43f07" alt="Modern React Deepdive - 리액트의 핵심 개념과 동작 원리부터 Next.js까지, 리액트의 모든 것"/>  
 </div>
 
 <br>
 
 ## ✔️ 스터디 소개
 
-[모던 리액트 Deep Dive](https://wikibook.co.kr/react-deep-dive/) 책을 기반으로 한 스터디입니다.
+[모던 리액트 Deep Dive: 리액트의 핵심 개념과 동작 원리부터 Next.js까지, 리액트의 모든 것](https://wikibook.co.kr/react-deep-dive/) 책을 기반으로 한 스터디입니다.
 
-> (참고) [예제코드](https://github.com/wikibook/react-deep-dive-example)
+- (참고) [예제코드](https://github.com/wikibook/react-deep-dive-example)
 
 <br>
 
