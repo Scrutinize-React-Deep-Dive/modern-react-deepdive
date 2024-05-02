@@ -4,7 +4,7 @@ name: 오류 보고
 about: 
 title: "[오류 정정] - "
 labels: 'type: Documentation, type: Bug'
-assignees: 'functionBee, mahwin, NYeonK, seung-heee, valueinvestment'
+assignees: 'functionBee, mahwin, NYeonK, valueinvestment'
 
 ---
 
