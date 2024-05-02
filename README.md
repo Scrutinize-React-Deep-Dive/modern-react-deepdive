@@ -1,12 +1,14 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScrutinize-React-Deep-Dive%2Fmodern-react-deepdive&count_bg=%23A0D6FF&title_bg=%23555555&icon=&icon_color=%23402D76&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="right"> 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FScrutinize-React-Deep-Dive%2Fmodern-react-deepdive%2F&count_bg=%23232330&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hit" />
+</div>
 
-# modern-react-deepdive
-
-모던 리액트 Deep Dive
+<div align="center">
+  <img width="560" height="auto" src="https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/assets/48350491/15433351-cb72-44f6-986a-a1638be43f07" alt="Modern React Deepdive"/>  
+</div>
 
 <br>
 
-## 스터디 소개
+## ✔️ 스터디 소개
 
 [모던 리액트 Deep Dive](https://wikibook.co.kr/react-deep-dive/) 책을 기반으로 한 스터디입니다.
 
@@ -14,7 +16,7 @@
 
 <br>
 
-## 스터디 진행 방식
+## ✔️ 스터디 진행 방식
 
 - 매주 금요일 낮 12시부터 1시까지 React 스터디 시간을 가집니다.
 - 발표자는 랜덤으로 선정합니다.
@@ -25,7 +27,7 @@
 
 <br>
 
-## 주차별 학습 로드맵
+## ✔️ 주차별 학습 로드맵
 
 | 주차 | 완료 | 날짜       | 챕터        | 내용 | 
 |------|----|------------|------------| --- |
@@ -48,7 +50,7 @@
 
 <br>
 
-## 스터디원
+## ✔️ 스터디원
 
 | | Member |
 |:------:|:-------|
