@@ -1,3 +1,11 @@
+---
+name: 풀 리퀘스트
+about: 프로젝트에 기여하기 위한 풀 리퀘스트 제출 양식입니다.
+title: "[챕터]: " # 예: "[CHAPTER 3]: 리액트 훅 깊게 살펴보기"
+labels: '' # 필요한 레이블을 지정해주세요.
+assignees: 'functionBee, mahwin, NYeonK, valueinvestment'
+---
+
 ## 풀 리퀘스트 제목
 <!-- 예: "CHAPTER 3: 리액트 훅 깊게 살펴보기" -->
 
