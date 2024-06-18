@@ -52,7 +52,7 @@
 
 - [Chapter1](https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/discussions/56)
 - [Chapter2](https://...)
-- [Chapter3](https://...)
+- [Chapter3](https://github.com/Scrutinize-React-Deep-Dive/modern-react-deepdive/issues/83)
 - [Chapter4](https://...)
 - [Chapter5](https://...)
 - [Chapter6](https://...)
