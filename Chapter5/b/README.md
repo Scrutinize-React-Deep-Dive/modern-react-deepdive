@@ -260,21 +260,6 @@ function SomeComponent() {
 다음은 Next.js와 TypeScript를 사용하여 상태 관리를 구현하는 예제입니다.<br>
 이 예제에서는 기본적인 `useState`와 `useReducer`를 사용하여 상태 관리를 합니다.
 
-#### 프로젝트 설정
-
-1. **Next.js 프로젝트 생성**
-
-   ```bash
-   npx create-next-app@latest my-next-app --typescript
-   cd my-next-app
-   ```
-
-2. **필요한 패키지 설치**
-
-   ```bash
-   npm install react react-dom next
-   ```
-
 #### `useState`를 사용한 상태 관리
 
 `useState`를 사용하여 상태를 관리하는 예제입니다.
