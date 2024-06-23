@@ -340,3 +340,15 @@ function SomeComponent() {
 이렇게 Next.js와 TypeScript를 사용하여 상태 관리 기능을 구현할 수 있습니다.<br>
 `useState`는 간단한 상태 관리를 위해, `useReducer`는 복잡한 상태 관리를 위해 사용됩니다.<br>
 이러한 기법을 통해 더 복잡한 애플리케이션에서도 효과적으로 상태를 관리할 수 있습니다.
+
+
+## 기타
+
+**React.Dev:**
+
+- [Managing State](https://react.dev/learn/managing-state)
+
+**아티클:**
+
+- [The Ultimate Guide to Managing State Between Components in React](https://www.dhiwise.com/post/The%20Ultimate%20Guide%20to%20Managing%20State%20Between%20Components%20in%20React)
+- [How to use React Context effectively](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
