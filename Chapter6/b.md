@@ -53,13 +53,13 @@ const Rating: React.FC<RatingProps> = ({ initialRating }) => {
       <h1 className="rating-title">Rating: {rating}</h1>
       <div className="rating-stars">
         {[1, 2, 3, 4, 5].map((star) => (
-          <span 
+          <button 
             key={star} 
             onClick={() => handleClick(star)} 
             className={`rating-star ${star <= rating ? 'selected' : ''}`}
           >
             ★
-          </span>
+          </button>
         ))}
       </div>
     </div>
@@ -105,13 +105,13 @@ const Rating: React.FC<RatingProps> = ({ initialRating }) => {
       <h1 className="rating-title">Rating: {rating}</h1>
       <div className="rating-stars">
         {[1, 2, 3, 4, 5].map((star) => (
-          <span 
+          <button 
             key={star} 
             onClick={() => handleClick(star)} 
             className={`rating-star ${star <= rating ? 'selected' : ''}`}
           >
             ★
-          </span>
+          </button>
         ))}
       </div>
     </div>
